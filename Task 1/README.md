@@ -1,15 +1,14 @@
 >Task name:
 
 GitHub Skills Test
+
 >Task description:
-Create a folder “Skills2022” in your DEVASC virtual machine and start a git
-repository.
-● The scripts you create in all the tasks will be copied into the repository
-“Skills2022” including the screenshots.
-● Make sure that your local repository is connected to an online
-repository on GitHub (make your repository public so that I can
-evaluate the work, once you get the grades, you can make it
-private).
+
+Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
+
+● The scripts you create in all the tasks will be copied into the repository “Skills2022” including the screenshots.
+
+● Make sure that your local repository is connected to an online repository on GitHub (make your repository public so that I can evaluate the work, once you get the grades, you can make it private).
 ● After every step make sure that the local files are present on GitHub
 with a tag indicating the task name.
 ● Take screenshots indicating the success of your actions.
