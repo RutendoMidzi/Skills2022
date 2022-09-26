@@ -19,9 +19,13 @@ Create a folder “Skills2022” in your DEVASC virtual machine and start a git 
 
 > Requirements:
 Github account.
+
 DEVASC folder named “Skills2022” 
+
 Connecting the local repository to the online github.
+
 #Task implementation 
+
 Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
 
 
