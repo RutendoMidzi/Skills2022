@@ -1,8 +1,8 @@
->Task name:
+#Task name:
 
 GitHub Skills Test
 
->Task description:
+#Task description:
 
 Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
 
@@ -15,11 +15,13 @@ Create a folder “Skills2022” in your DEVASC virtual machine and start a git 
 ● Take screenshots indicating the success of your actions.
 ● At the end finalise the README.me file indicating the list of all the tasks and your remarks.
 
-> Task preparation 
+#Task preparation 
 
-Requirements:
+> Requirements:
 Github account.
 DEVASC folder named “Skills2022” 
 Connecting the local repository to the online github.
->Task implementation 
+#Task implementation 
 Create a folder “Skills2022” in your DEVASC virtual machine and start a git repository.
+
+
